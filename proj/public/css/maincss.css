@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.left{
+	width: 100px;
+	background-color: gray;
+	float: left;
+}
+.right{
+	width: 1000px;
+	background-color: gray;
+	float: right;
+}
+
+.titl{
+	width: 1000px;
+}
